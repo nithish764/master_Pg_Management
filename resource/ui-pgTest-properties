@@ -1,0 +1,5 @@
+# Admin credentials
+pg.admin.platform=owner_Admin
+pg.admin.base.url=http://localhost/login.do
+pg.admin.username=admin
+pg.admin.password=manager
